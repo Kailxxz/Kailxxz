@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kailxxz
-- 👀 I’m interested in Tech | anime | Gaming :)
-- 🌱 I’m currently learning web dev and python :)
+- 👀 I’m interested in learning latest technologies :)
+- 🌱 I’m currently learning web development and advanced python :)
 - 💞️ I’m looking to collaborate on projects :)
 - How to reach me -starqcoc@gmail.com :)
 <!---
