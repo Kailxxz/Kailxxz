@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kailxxz
+- 👋 Hi, I’m Kailash 
 - 👀 I’m interested in programming,learning new techs :)
 - 🌱 I’m currently learning Data :)
 - 💞️ I’m looking to collaborate on projects :)
