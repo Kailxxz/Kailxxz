@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kailxxz
 - 👀 I’m interested in programming,learning new techs :)
-- 🌱 I’m currently learning web development  :)
-- 💞️ I’m looking to collaborate on projects related to web :)
+- 🌱 I’m currently learning Data :)
+- 💞️ I’m looking to collaborate on projects :)
 - How to reach me -idkailash17@gmail.com :)
 <!---
 Kailxxz/Kailxxz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
